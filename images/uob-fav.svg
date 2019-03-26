@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="80"
+   height="80"
+   id="svg3087"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="logo-uob.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata3599">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="696"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="1.00369"
+     inkscape:cx="271"
+     inkscape:cy="13.187649"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="g3096" />
+  <defs
+     id="defs3187">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 82 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="542 : 82 : 1"
+       inkscape:persp3d-origin="271 : 54.666667 : 1"
+       id="perspective3601" />
+  </defs>
+  <title
+     id="title3089">Bristol University Logo</title>
+  <g
+     id="g3091"
+     xml:space="preserve"
+     transform="translate(-16.9375,-333.76838)">
+<clipPath
+   id="clippath1"> 	<path
+   d="M 0,634.957 L 0,792 L 542.832,792 L 542.832,634.957"
+   id="path3094" />
+</clipPath>
+<g
+   id="g3096"> 
+<g
+   id="g4202"><g
+     transform="translate(-63.933824,-296.90442)"
+     style="fill:#bf2f38;fill-rule:nonzero;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;fill-opacity:1"
+     id="g3122">
+	<path
+   style="fill:#bf2f38;fill-opacity:1"
+   id="path3124"
+   d="M 103.047,705.219 C 102.98,699.828 101.148,688.809 88.2539,682.555 C 101.348,686.715 107.648,697.781 108.289,706.035 C 122.039,708.777 134.242,715.246 154.055,708.414 L 154.121,708.371 C 154.121,708.371 128.051,708.609 117.148,700.723 C 122.781,700.934 129.262,699.66 131.387,696.473 C 133.648,693.078 133.883,689.57 139.461,689.391 C 142.594,689.289 153.219,690.082 154.332,674.48 C 150.934,680.219 147.25,682.59 141.691,681.172 C 138.141,680.27 131.66,677.551 127.027,683.086 C 123.203,687.652 119.098,690.027 112.547,689.32 C 115.168,685.777 154.227,635.062 154.227,635.062 C 154.227,635.062 104.188,675.223 101.426,677.562 C 100.895,670.23 103.09,667.539 106.027,664.316 C 108.434,661.68 112.613,658.109 109.285,650.574 C 106.598,644.484 106.949,640.801 114.281,634.957 C 108.438,635.383 99.5195,639.312 100.574,650.043 C 101.215,656.523 96.6211,657.086 94.9453,658.012 C 90.5898,660.422 90.0234,667.434 89.8789,672.887 C 89.3867,671.113 83.0469,643.863 80.8164,635.047 C 80.8164,635.051 80.8164,708.371 80.8164,708.371 L 80.9844,708.371 C 89.4766,705.027 96.5391,704.516 103.047,705.219" />
+</g></g>
+</g>
+</g></svg>
